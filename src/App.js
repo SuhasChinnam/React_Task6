@@ -6,7 +6,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>Rohith Srivatsav</h1>
+        <h1>SAI SUHAS</h1>
         <p>Full-Stack Developer</p>
       </header>
       <section className="About">
@@ -34,12 +34,12 @@ function App() {
       </section>
       <section className="Contact">
         <h2>Contact</h2>
-        <p>Email: rohith256@gmail.com</p>
-        <p>Phone: (123) 456-7890</p>
+        <p>Email: suhas.saichinnam@gmail.com</p>
+        <p>Phone: 100</p>
         
       </section>
       <footer>
-        <p>© 2023 Rohith Srivatsav</p>
+        <p>© 2023 SAI SUHAS</p>
       </footer>
     </div>
   );
